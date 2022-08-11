@@ -1,0 +1,23 @@
+
+.heading{
+    position: relative;
+
+}
+
+.text-heading{
+    position: absolute;
+    top: 30px;
+    color: #FFFFFF;
+    width: 100%;
+    text-align: center;
+}
+
+.img-heading .img-heading1{
+    width: 100%;
+    height: 500px;
+
+}
+
+p {
+    margin-top: 10px;
+}
