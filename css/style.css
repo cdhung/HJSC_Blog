@@ -12,10 +12,17 @@
     text-align: center;
 }
 
-.img-heading .img-heading1{
+/* .img-heading .img-heading1{
     width: 100%;
     height: 500px;
+} */
 
+.heading .banner{
+    padding-top: 20%;
+    background-position-y: -250px;
+    background-image: url("/HJSC_Blog/img/universe1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 p {
